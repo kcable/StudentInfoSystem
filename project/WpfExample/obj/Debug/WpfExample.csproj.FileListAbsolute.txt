@@ -1,0 +1,16 @@
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\WpfExample\bin\Debug\WpfExample.exe.config
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\WpfExample\bin\Debug\WpfExample.exe
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\WpfExample\bin\Debug\WpfExample.pdb
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\WpfExample\obj\Debug\App.g.cs
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\WpfExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\WpfExample\obj\Debug\WpfExample_MarkupCompile.cache
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\WpfExample\obj\Debug\WpfExample_MarkupCompile.lref
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\WpfExample\obj\Debug\WpfExample.g.resources
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\WpfExample\obj\Debug\WpfExample.Properties.Resources.resources
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\WpfExample\obj\Debug\WpfExample.csproj.GenerateResource.cache
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\WpfExample\obj\Debug\WpfExample.csproj.CoreCompileInputs.cache
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\WpfExample\obj\Debug\WpfExample.exe
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\WpfExample\obj\Debug\WpfExample.pdb
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\WpfExample\obj\Debug\MainWindowView.g.cs
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\WpfExample\obj\Debug\MainWindowView.baml
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\WpfExample\obj\Debug\WpfExample.csprojAssemblyReference.cache

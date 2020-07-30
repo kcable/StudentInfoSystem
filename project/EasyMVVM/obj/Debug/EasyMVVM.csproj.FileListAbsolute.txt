@@ -1,0 +1,16 @@
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\EasyMVVM\bin\Debug\EasyMVVM.exe.config
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\EasyMVVM\bin\Debug\EasyMVVM.exe
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\EasyMVVM\bin\Debug\EasyMVVM.pdb
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\EasyMVVM\obj\Debug\EasyMVVM.csprojAssemblyReference.cache
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\EasyMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\EasyMVVM\obj\Debug\App.g.cs
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\EasyMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\EasyMVVM\obj\Debug\EasyMVVM_MarkupCompile.cache
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\EasyMVVM\obj\Debug\EasyMVVM_MarkupCompile.lref
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\EasyMVVM\obj\Debug\MainWindow.baml
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\EasyMVVM\obj\Debug\EasyMVVM.g.resources
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\EasyMVVM\obj\Debug\EasyMVVM.Properties.Resources.resources
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\EasyMVVM\obj\Debug\EasyMVVM.csproj.GenerateResource.cache
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\EasyMVVM\obj\Debug\EasyMVVM.csproj.CoreCompileInputs.cache
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\EasyMVVM\obj\Debug\EasyMVVM.exe
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\EasyMVVM\obj\Debug\EasyMVVM.pdb

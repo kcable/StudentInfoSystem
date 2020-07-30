@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\shark\\Desktop\\TU]\\PS_39_Krustev\\LoggerLibr\\LoggerLibrary1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\shark\\Desktop\\TU]\\PS_39_Krustev\\LoggerLibr\\LoggerLibrary1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shark\\Desktop\\TU]\\PS_39_Krustev\\LoggerLibr\\LoggerLibrary1.csproj",
+        "projectName": "LoggerLibrary",
+        "projectPath": "C:\\Users\\shark\\Desktop\\TU]\\PS_39_Krustev\\LoggerLibr\\LoggerLibrary1.csproj",
+        "packagesPath": "C:\\Users\\shark\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shark\\Desktop\\TU]\\PS_39_Krustev\\LoggerLibr\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45",
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\shark\\Desktop\\library": {},
+          "C:\\Users\\shark\\Desktop\\test": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          },
+          "net45": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200-preview-014883\\RuntimeIdentifierGraph.json"
+        },
+        "net45": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200-preview-014883\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

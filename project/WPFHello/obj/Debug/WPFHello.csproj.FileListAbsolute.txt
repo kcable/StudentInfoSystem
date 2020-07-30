@@ -1,0 +1,17 @@
+C:\Users\shark\Desktop\PS_39_Krustev\WPFHello\bin\Debug\WPFHello.exe.config
+C:\Users\shark\Desktop\PS_39_Krustev\WPFHello\bin\Debug\WPFHello.exe
+C:\Users\shark\Desktop\PS_39_Krustev\WPFHello\bin\Debug\WPFHello.pdb
+C:\Users\shark\Desktop\PS_39_Krustev\WPFHello\obj\Debug\WPFHello.csprojAssemblyReference.cache
+C:\Users\shark\Desktop\PS_39_Krustev\WPFHello\obj\Debug\MainWindow.g.cs
+C:\Users\shark\Desktop\PS_39_Krustev\WPFHello\obj\Debug\App.g.cs
+C:\Users\shark\Desktop\PS_39_Krustev\WPFHello\obj\Debug\WPFHello_MarkupCompile.cache
+C:\Users\shark\Desktop\PS_39_Krustev\WPFHello\obj\Debug\WPFHello_MarkupCompile.lref
+C:\Users\shark\Desktop\PS_39_Krustev\WPFHello\obj\Debug\MainWindow.baml
+C:\Users\shark\Desktop\PS_39_Krustev\WPFHello\obj\Debug\WPFHello.g.resources
+C:\Users\shark\Desktop\PS_39_Krustev\WPFHello\obj\Debug\WPFHello.Properties.Resources.resources
+C:\Users\shark\Desktop\PS_39_Krustev\WPFHello\obj\Debug\WPFHello.csproj.GenerateResource.cache
+C:\Users\shark\Desktop\PS_39_Krustev\WPFHello\obj\Debug\WPFHello.csproj.CoreCompileInputs.cache
+C:\Users\shark\Desktop\PS_39_Krustev\WPFHello\obj\Debug\WPFHello.exe
+C:\Users\shark\Desktop\PS_39_Krustev\WPFHello\obj\Debug\WPFHello.pdb
+C:\Users\shark\Desktop\PS_39_Krustev\WPFHello\obj\Debug\MyMessage.g.cs
+C:\Users\shark\Desktop\PS_39_Krustev\WPFHello\obj\Debug\MyMessage.baml

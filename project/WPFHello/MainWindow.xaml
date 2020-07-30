@@ -1,0 +1,39 @@
+﻿<Window x:Class="WPFHello.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFHello"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Closing="waitBeforeClosing">
+    <Grid x:Name="MainGrid" RenderTransformOrigin="0.481,0.49">
+
+        <Label x:Name="Hello_WPF" Content="Hello WPF!" HorizontalAlignment="Left" Margin="241,33,0,0" VerticalAlignment="Top" Height="74" Width="250" FontFamily="SimSun" FontSize="48" Cursor="Arrow" Foreground="#FF1F1E1C"/>
+        <Button x:Name="btn_hello" Content="Hello!" HorizontalAlignment="Left" Margin="305,223,0,0" VerticalAlignment="Top" Width="113" Height="35" Click="btn_hello_Click"/>
+        <GroupBox x:Name="gbUser" Header="" HorizontalAlignment="Left" Height="111" Margin="241,107,0,0" VerticalAlignment="Top" Width="250">
+            <Label x:Name="lblName" Content="Name:" HorizontalAlignment="Left" VerticalAlignment="Top" Width="44"/>
+
+        </GroupBox>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="25" Margin="305,128,0,0" TextWrapping="Wrap" Text="Enter your name" VerticalAlignment="Top" Width="129" Opacity="0.5"/>
+        <TextBox x:Name="txtName_Copy" HorizontalAlignment="Left" Height="25" Margin="305,158,0,0" TextWrapping="Wrap" Text="Enter your name" VerticalAlignment="Top" Width="129" Opacity="0.5"/>
+        <TextBox x:Name="txtName_Copy1" HorizontalAlignment="Left" Height="25" Margin="305,188,0,0" TextWrapping="Wrap" Text="Enter your name" VerticalAlignment="Top" Width="129" Opacity="0.5"/>
+        <Button x:Name="factBtn" Content="Factorial" HorizontalAlignment="Left" Margin="440,300,0,0" VerticalAlignment="Top" Width="75" Click="factBtn_Click"/>
+        <TextBox x:Name="numberTxt" HorizontalAlignment="Left" Height="23" Margin="298,298,0,0" TextWrapping="Wrap" Text="Enter Number Here" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="numberLbl" Content="Number:" HorizontalAlignment="Left" Margin="237,294,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="powBtn" Content="Power" HorizontalAlignment="Left" Margin="440,336,0,0" VerticalAlignment="Top" Width="75" Click="powBtn_Click"/>
+        <TextBox x:Name="powerTxt" HorizontalAlignment="Left" Height="23" Margin="298,333,0,0" TextWrapping="Wrap" Text="Enter Power Here" VerticalAlignment="Top" Width="120"/>
+
+
+        <TextBlock x:Name="TextBlock1" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Arial Black" Margin="562,223,43,173" Height="23" RenderTransformOrigin="1.762,-0.128" Width="187"> I edit XAML</TextBlock>
+        <Button HorizontalAlignment="Stretch" VerticalAlignment="Bottom" Height="50" Click="Button_Click">Click ME</Button>
+        <ListBox x:Name="peopleListBox" HorizontalAlignment="Left" Height="100" Margin="86,146,0,0" VerticalAlignment="Top" Width="100">
+            <ListBoxItem Content="Mike"/>
+            <ListBoxItem Content="Maria"/>
+            <ListBoxItem Content="Lisa"/>
+            <ListBoxItem Content="Jhon"/>
+        </ListBox>
+        <Button x:Name="greetBtn" Content="Greet" HorizontalAlignment="Left" Margin="98,251,0,0" VerticalAlignment="Top" Width="75" Click="greetBtn_Click"/>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,53 @@
+﻿<Window x:Class="StudentInfoSystem.MainForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentInfoSystem"
+        mc:Ignorable="d"
+        Title="MainForm" Height="426.147" Width="835.655">
+    <Grid>
+        <Label Content="Name:" HorizontalAlignment="Left" Margin="75,42,0,0" VerticalAlignment="Top" Width="48"/>
+        <Label Content="Surename:" HorizontalAlignment="Left" Margin="75,83,0,0" VerticalAlignment="Top" Width="65"/>
+        <Label Content="LastName:" HorizontalAlignment="Left" Margin="75,126,0,0" VerticalAlignment="Top" Width="65"/>
+        <Label Content="Faculty:" HorizontalAlignment="Left" Margin="75,202,0,0" VerticalAlignment="Top" Width="48"/>
+        <Label Content="Specialty:" HorizontalAlignment="Left" Margin="75,233,0,0" VerticalAlignment="Top" Width="65"/>
+        <Label Content="EQD:" HorizontalAlignment="Left" Margin="75,264,0,0" VerticalAlignment="Top" Width="48"/>
+        <Label Content="Status:" HorizontalAlignment="Left" Margin="75,295,0,0" VerticalAlignment="Top" Width="48"/>
+        <Label Content="FacNum:" HorizontalAlignment="Left" Margin="75,326,0,0" VerticalAlignment="Top" Width="65"/>
+        <Label Content="Course:" HorizontalAlignment="Left" Margin="525,202,0,0" VerticalAlignment="Top" Width="50"/>
+        <Label Content="Potok:" HorizontalAlignment="Left" Margin="527,233,0,0" VerticalAlignment="Top" Width="48"/>
+        <Label Content="Group:" HorizontalAlignment="Left" Margin="527,265,0,0" VerticalAlignment="Top" Width="48"/>
+        <Label Content="Diploma:" HorizontalAlignment="Left" Margin="520,295,0,0" VerticalAlignment="Top" Width="80"/>
+        <GroupBox x:Name="personalInfoGb" Header="Personal Information" HorizontalAlignment="Left" Height="158" Margin="55,10,0,0" VerticalAlignment="Top" Width="253">
+            <Grid x:Name="personalInfoGrid" HorizontalAlignment="Left" Height="123" Margin="10,10,-2,0" VerticalAlignment="Top" Width="233">
+                <TextBox x:Name="nameTxt" Text="{Binding FirstName}" HorizontalAlignment="Left" Height="23" Margin="69,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="sureNameTxt" Text="{Binding SureName}"  HorizontalAlignment="Left" Height="23" Margin="69,50,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="lastNameTxt" Text="{Binding LastName}" HorizontalAlignment="Left" Height="23" Margin="69,90,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox x:Name="studentInfoGb" Header="Student Information" HorizontalAlignment="Left" Height="203" Margin="49,168,0,0" VerticalAlignment="Top" Width="644">
+            <Grid x:Name="studentInfoGrid" HorizontalAlignment="Left" Height="175" Margin="10,0,-2,0" VerticalAlignment="Top" Width="625">
+                <TextBox x:Name="faculyTxt" HorizontalAlignment="Left" Height="24" Margin="69,24,0,0" TextWrapping="Wrap" Text="{Binding Faculty}" VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="specialtTxt" HorizontalAlignment="Left" Height="23" Margin="69,53,0,0" TextWrapping="Wrap" Text="{Binding Specialnost}" VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="oksTxt" HorizontalAlignment="Left" Height="23" Margin="69,81,0,0" TextWrapping="Wrap" Text="{Binding Oks}" VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="statusTxt" HorizontalAlignment="Left" Height="23" Margin="69,109,0,0" TextWrapping="Wrap" Text="{Binding Status}" VerticalAlignment="Top" Width="120"/>
+                <!-- <ListBox Margin="69,109,406,43" ItemsSource="{Binding StudStatusChoices}"></ListBox>-->
+                <TextBox x:Name="facNumTxt" Text="{Binding FacNumber}" HorizontalAlignment="Left" Height="23" Margin="69,142,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="courseTxt" HorizontalAlignment="Left" Height="23" Margin="510,24,0,0" TextWrapping="Wrap" Text="{Binding Course}" VerticalAlignment="Top" Width="105"/>
+                <TextBox x:Name="potokTxt" HorizontalAlignment="Left" Height="22" Margin="510,54,0,0" TextWrapping="Wrap" Text="{Binding Potok}" VerticalAlignment="Top" Width="105"/>
+                <TextBox x:Name="groupTxt" HorizontalAlignment="Left" Height="24" Margin="510,81,0,0" TextWrapping="Wrap" Text="{Binding Group}" VerticalAlignment="Top" Width="105"/>
+                <TextBox x:Name="diplomaTxt" HorizontalAlignment="Left" Height="24" Margin="510,110,0,0" TextWrapping="Wrap" Text="{Binding Diploma}" VerticalAlignment="Top" Width="105"/>
+            </Grid>
+        </GroupBox>
+        <Button Content="Clear" HorizontalAlignment="Left" Margin="417,90,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="Disable" HorizontalAlignment="Left" Margin="417,126,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Button Content="Enable" HorizontalAlignment="Left" Margin="508,90,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2"/>
+        <!-- <Button Command="{Binding PopulateCommand}" Content="Populate" HorizontalAlignment="Left" Margin="508,126,0,0" VerticalAlignment="Top" Width="75" /> -->
+        <Button Content="TestStudentsDB" Margin="417,53,312,315" Click="Button_Click_3" />
+        <Button Content="TestDiploma" Margin="584,326,145,42" Click="Button_Click_4"   />
+
+
+
+    </Grid>
+</Window>

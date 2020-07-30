@@ -1,0 +1,9 @@
+C:\Users\shark\Desktop\test\net45\LoggerLibrary1.dll
+C:\Users\shark\Desktop\test\net45\LoggerLibrary1.pdb
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\LoggerLibr\obj\Debug\net45\LoggerLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\LoggerLibr\obj\Debug\net45\LoggerLibrary1.AssemblyInfoInputs.cache
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\LoggerLibr\obj\Debug\net45\LoggerLibrary1.AssemblyInfo.cs
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\LoggerLibr\obj\Debug\net45\LoggerLibrary1.dll
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\LoggerLibr\obj\Debug\net45\LoggerLibrary1.pdb
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\LoggerLibr\obj\Debug\net45\LoggerLibrary1.csproj.CopyComplete
+C:\Users\shark\Desktop\TU]\PS_39_Krustev\LoggerLibr\obj\Debug\net45\LoggerLibrary1.csprojAssemblyReference.cache
